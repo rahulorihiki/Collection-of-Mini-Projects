@@ -2,6 +2,28 @@
 
 This repository contains a collection of mini projects demonstrating different web development concepts using HTML, CSS, and JavaScript.
 
+## Table of Contents
+
+1. [Task List](#task-list)
+   - [Description](#description)
+   - [Features](#features)
+   - [Installation](#installation)
+2. [GitHub Finder](#github-finder)
+   - [Description](#description-1)
+   - [Features](#features-1)
+   - [Installation](#installation-1)
+3. [Loan Calculator](#loan-calculator)
+   - [Description](#description-2)
+   - [Features](#features-2)
+   - [Installation](#installation-2)
+4. [Number Guesser](#number-guesser)
+   - [Description](#description-3)
+   - [Features](#features-3)
+   - [Installation](#installation-3)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact Information](#contact-information)
+
 ## Task List
 
 ### Description
